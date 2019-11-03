@@ -1,5 +1,5 @@
 # noteApp
-sample note app
+sample note app by adding notes
 ## cover this topics:
 
 1- recycler view
